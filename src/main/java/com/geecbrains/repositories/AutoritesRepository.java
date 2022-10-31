@@ -1,7 +1,6 @@
 package com.geecbrains.repositories;
 
 
-
 import com.geecbrains.entities.Autorites;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
